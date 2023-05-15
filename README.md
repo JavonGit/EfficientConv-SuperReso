@@ -5,7 +5,7 @@
 
 #### [Paper](https://openreview.net/pdf?id=ZK6lzx0jqdZ) | [Supplementary Material](https://openreview.net/attachment?id=ZK6lzx0jqdZ&name=supplementary_material) | [Discussion](https://github.com/sunny2109/ShuffleMixer/issues)
 ### ShuffleMixer: An Efficient ConvNet for Image Super-Resolution
-By [Long Sun](https://github.com/sunny2109), [Jinshan Pan](https://jspan.github.io/), and Jinhui Tang
+By Javon Jack and Lance Chapman.
 
 
 ## Network Architecture
